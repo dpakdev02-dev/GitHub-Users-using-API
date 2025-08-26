@@ -15,10 +15,6 @@ A simple web app that fetches and displays GitHub user information using the Git
 
 ---
 
-## 📸 Screenshot
-(Add a screenshot of your project here)
-
----
 
 ## 🛠️ Technologies Used
 - **HTML5**
